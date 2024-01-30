@@ -1,4 +1,4 @@
-module firstapi.com/api
+module first-api.com/api
 
 go 1.21.6
 
